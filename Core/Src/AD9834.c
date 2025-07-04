@@ -2,8 +2,8 @@
  * @Description: AD9834波形发生器驱动实现文件
  * @Author: MALossov
  * @Date: 2022-07-03 15:41:32
- * @LastEditTime: 2022-10-06 02:54:35
- * @LastEditors: MALossov
+ * @LastEditTime: 2025-07-04 11:00:00
+ * @LastEditors: ablewangee
  * @Reference: 康威电子
  */
 /**********************************************************

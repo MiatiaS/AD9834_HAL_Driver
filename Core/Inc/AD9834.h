@@ -2,8 +2,8 @@
  * @Description: AD9834波形发生器驱动文件
  * @Author: MALossov
  * @Date: 2022-06-28 16:37:55
- * @LastEditTime: 2022-10-06 02:56:10
- * @LastEditors: MALossov
+ * @LastEditTime: 2025-07-04 11:00:00
+ * @LastEditors: ablewangee
  * @Reference:
  */
 #ifndef __AD9834_H
