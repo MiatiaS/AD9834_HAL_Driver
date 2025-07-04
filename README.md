@@ -1,15 +1,16 @@
 # AD9834波形发生器驱动使用说明
 
 ## 引脚连接
+请在CubeMX中命名以下引脚  
 
 | 信号名称 | GPIO引脚       | 功能说明               |
 |----------|----------------|------------------------|
-| FSYNC    | FSYNC_GPIO_Port | 片选/同步信号线        |
-| SCK      | SCK_GPIO_Port   | SPI时钟信号线          |
-| SDA      | SDA_GPIO_Port   | SPI数据信号线          |
-| RST      | RST_GPIO_Port   | 硬件复位信号线         |
-| FS       | FS_GPIO_Port    | 频率寄存器选择控制线   |
-| PS       | PS_GPIO_Port    | 相位寄存器选择控制线   |
+| FSYNC    | AD9834_FSYNC | 片选/同步信号线        |
+| SCK      | AD9834_SCK   | SPI时钟信号线          |
+| SDA      | AD9834_SDA   | SPI数据信号线          |
+| RST      | AD9834_RST   | 硬件复位信号线         |
+| FS       | AD9834_FS    | 频率寄存器选择控制线   |
+| PS       | AD9834_PS    | 相位寄存器选择控制线   |
 
 ## 核心函数
 
